@@ -1,9 +1,9 @@
 def consolidate_cart(cart)
-  # code here
+  cart[:counts] = 0
 end
 
 def apply_coupons(cart, coupons)
-  # code here
+  
 end
 
 def apply_clearance(cart)
